@@ -1,3 +1,5 @@
+package excecao;
+
 public class ExistentValueException extends Exception {
     public ExistentValueException() {
         super();

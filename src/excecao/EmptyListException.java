@@ -1,3 +1,5 @@
+package excecao;
+
 public class EmptyListException extends NullPointerException{
     public EmptyListException(){
         super();

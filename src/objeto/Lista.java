@@ -1,5 +1,9 @@
+package objeto;
+
+import excecao.EmptyListException;
+import excecao.ExistentValueException;
+
 import java.util.ArrayList;
-import java.util.EmptyStackException;
 
 public class Lista {
     private Nodo primeiro = null, ultimo = null;

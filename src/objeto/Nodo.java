@@ -1,3 +1,5 @@
+package objeto;
+
 public class Nodo {
     private Nodo anterior;
     private Nodo proximo;
